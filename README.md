@@ -1,3 +1,5 @@
+![Build](https://github.com/rockymortal/ai-shopping-cart/actions/workflows/gradle.yml/badge.svg)
+
 ---
 page_type: sample
 languages:
